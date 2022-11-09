@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'BalooBhai2';
+  src: url("/public/fonts/BalooBhai2-VariableFont_wght.woff2") format('woff2'),
+  url("/public/fonts/BalooBhai2-VariableFont_wght.woff") format('woff'),
+  url("/public/fonts/BalooBhai2-VariableFont_wght.otf") format('truetype')
+}
+.Background {
+  background: rgb(252, 252, 210);
+  padding: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+}
+
+.LogoImage {
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
